@@ -1,0 +1,22 @@
+[
+  {
+    "name": "OIG.9.jpg",
+    "rawFile": {},
+    "size": 81636,
+    "status": "File type is not allowed",
+    "type": "jpg",
+    "validationMessages": { "minSize": "", "maxSize": "" },
+    "statusCode": "0",
+    "id": "OIG.9_5.jpg"
+  },
+  {
+    "name": "AnyDesk.exe",
+    "rawFile": {},
+    "size": 4038208,
+    "status": "Ready to upload",
+    "type": "exe",
+    "validationMessages": { "minSize": "", "maxSize": "" },
+    "statusCode": "1",
+    "id": "AnyDesk_6.exe"
+  }
+]
